@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## About Me
+
+## Languages and Tools
+
+## Projects
+![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=twoConstant&count_private=true&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twoConstant&hide=html,typescript,css&layout=compact)
+
+## Contact Me
